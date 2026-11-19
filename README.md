@@ -1,6 +1,6 @@
 # EarthSage-AI
 An interactive planetary sustainability intelligence platform for climate risk analysis, water security, air quality monitoring, food-system exposure and clean-energy insights using environmental data analytics.
-EarthSage AI – Planetary Sustainability Intelligence
+EarthSage AI – Planetary Sustainability Intelligence(https://github.com/bismac707/EarthSage-AI.git)
 
 EarthSage AI is an interactive environmental intelligence platform designed to explore climate signals, water security, air quality, food-system exposure and clean-energy opportunities through data analytics and visualization.
 
